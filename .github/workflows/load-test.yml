@@ -10,4 +10,4 @@ jobs:
     - name: step 2 - runk6 load test
       uses: grafana/k6-action@v0.2.0
       with:
-        filename: scripts/test.js
+        filename: scripts-k6/teste-k6.js
