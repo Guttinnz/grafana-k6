@@ -1,0 +1,1 @@
+k6 run --env K6_BROWSER_ENABLED=true web-performance-k6.js para rodar o script de automação web
